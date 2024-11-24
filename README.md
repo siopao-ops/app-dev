@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# My favorite movie
+'**insidious**'
+'Insidious (2010) is a supernatural horror film directed by James Wan. The story follows a family who experiences disturbing and terrifying events after moving into a new home. Their son, Dalton, mysteriously falls into a coma, and strange occurrences escalate as they discover that their house is haunted. The family seeks help from a psychic, who reveals that Dalton's soul has become trapped in a dark, otherworldly realm called "The Further," and malevolent spirits are trying to take him. The film explores themes of possession, astral projection, and the battle between good and evil spirits.'
